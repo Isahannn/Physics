@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Delphi build artifacts
+*.dcu
+*.exe
+*.dll
+*.res
+*.~*
+*.local
+*.identcache
+*.dproj.local
+*.stat

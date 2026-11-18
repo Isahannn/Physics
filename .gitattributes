@@ -1,0 +1,14 @@
+* text=auto
+*.pas   text eol=crlf
+*.dfm   text eol=crlf
+*.dpr   text eol=crlf
+*.dsk   text eol=crlf
+*.cfg   text eol=crlf
+*.dof   text eol=crlf
+*.dpk   text eol=crlf
+*.inc   text eol=crlf
+*.htm   text eol=crlf
+*.HTM   text eol=crlf
+*.XML   text eol=crlf
+*.TXT   text eol=crlf
+*.txt   text eol=crlf
